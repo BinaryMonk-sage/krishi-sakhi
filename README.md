@@ -42,4 +42,15 @@ The application is designed to be easy to use and focuses on solving real-world 
 - Weather updates for crops  
 - Market price information  
 - Crop disease and pest identification  
-- Mobile or web-based interface  
+- Mobile or web-based interface
+  
+
+- How to Run the Project
+
+Make sure Python is installed on your system.
+
+Download or clone the repository: git clone https://github.com/yourusername/krishi-sakhi
+Open the project folder in VS Code or any editor.
+Run the main Python file:
+python main.py
+
