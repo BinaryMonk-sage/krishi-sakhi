@@ -52,5 +52,5 @@ Make sure Python is installed on your system.
 Download or clone the repository: git clone https://github.com/yourusername/krishi-sakhi
 Open the project folder in VS Code or any editor.
 Run the main Python file:
-main.py
+pyt main.py
 
